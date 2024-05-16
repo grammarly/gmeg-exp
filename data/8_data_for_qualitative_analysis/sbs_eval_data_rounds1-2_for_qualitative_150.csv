@@ -1,0 +1,370 @@
+id,aligned,n_revisions,human_explanation,llm_explanation,human_n_explanation,llm_n_explanation
+wiki_test_201,"A nut graf ( sometimes spelled nut graph and also called a billboard ) is one or more paragraphs , particularly in a feature story , that {explain=>explains} the news value of the story .",1,"- The plural present tense form of the verb ""explain"" was replaced with the singular form ""explains"" because the subject of the sentence is the singular noun ""a nut graf.""",- The verb 'explains' needs to agree with the singular subject 'nut graf.',explanation_2,explanation_1
+fce_dev_315,"{and=>And} the last one {. How=>, how} much money {i=>} should {take there=>I bring} ?",4,"- The letter ""A"" was capitalized because the word ""And"" begins the sentence.
+- The period before ""how"" was replaced with a comma because the introductory phrase and the subsequent clause are combined into one sentence. This improves fluency and clarity.
+- ""How"" was changed to lowercase because it is no longer the first word of the sentence.
+- The phrase ""take there"" was replaced with the verb ""bring."" This lexical choice is a more appropriate word, and it improves sentence fluency.
+- The subject ""I"" was moved because this is a question and not a statement, and it has a different word order. So ""I should bring"" becomes ""should I bring?""","- The first letter of the sentence should be capitalized.
+- A comma was added to improve the flow of the sentence.
+- The subject pronoun 'I' should be capitalized.
+- 'Take there' was changed to 'bring' to improve clarity and accuracy.
+- Changed 'money i should take' to 'how much money should I bring' for better fluency.",explanation_1,explanation_2
+wiki_dev_891,The West Side has begun to rebound from the {affects=>effects} of urban renewal in recent years .,1,"- The present tense verb ""affects"" was replaced with the plural noun ""effects"" because the article ""the"" comes before it, which signals that a noun is needed.","- 'Effects' is the correct spelling of the word here, as 'affects' refers to emotional or psychological states.",explanation_1,explanation_2
+wiki_dev_85,"It is also {favoured=>favored} by some notable scholars and sources , such as the {=>""} Encyclopaedia of Islam , {=>"" ""} Encyclopaedia Iranica , {=>"" ""} Encyclopaedia Britannica , {=>"" ""} Grand Dictionnaire Encyclopedique Larousse , {=>""} and {=>the ""} World Book {Encyclopedia .=>Encyclopedia. ""}",8,"- The spelling of the word ""favored"" was corrected to reflect American English spelling.
+- The different encyclopedia titles are put in quotation marks. This is an incorrect revision because book titles, which include encyclopedia titles, are italicized. Entries taken from an encyclopedia are placed in quotation marks.","- ""favoured"" was changed to ""favored"" to adhere to American English spelling conventions.
+- Quotation marks were added around the titles of the encyclopedias to clarify that they are being referenced.
+- ""The"" was added before ""World Book Encyclopedia"" for consistency with the other encyclopedias, which all have articles before their names.",explanation_2,explanation_1
+fce_test_140,"Among all these {=>,} the {theatre=>theater} restaurant was closed {,=>} because the {shef=>chef} and the waiters {where=>were} on {holiday=>vacation} .",6,"- A comma was added after the introductory phrase to improve the clarity of the sentence.
+- ""theater"" is the American English spelling of ""theatre.""
+- A comma was removed before ""because"" since the subordinating clause comes after the main clause. A comma might be used if the sentence becomes ambiguous otherwise or if the subordinating clause provides an explanation for the content in the main clause.
+- ""shef"" is a misspelling of ""chef.""
+- ""where"" is a misspelling of ""were.""
+- ""vacation"" is preferred in American English over ""holiday.""","- A comma was added to separate the introductory phrase from the main clause.
+- 'Theatre' was changed to 'theater' to match American English spelling.
+- 'Shef' was corrected to 'chef.'
+- 'Where' was corrected to 'were.'
+- 'Holiday' was changed to 'vacation' to match American English terminology.",explanation_1,explanation_2
+fce_test_359,Technology nowadays is something everybody has on {your=>their} own {mind=>minds} .,2,"- ""your"" was changed to ""their"" to coordinate with the pronoun previously established in the sentence.","- The possessive pronoun ""your"" was changed to ""their"" to reflect the correct agreement with the plural noun ""everybody.""
+- ""Mind"" was changed to ""minds"" to reflect the plural subject ""everybody.""",explanation_1,explanation_2
+fce_dev_134,"Photography is a very interesting {activitie=>activity} , and is not too hard to do too .",1,"- The spelling of ""activity"" was corrected.",- 'Activitie' was corrected to the correct spelling 'activity.',explanation_1,explanation_2
+wiki_test_449,"{""=>It} aired on TBS Superstation in the 1990s after it was {cancelled ,=>canceled} and was also added to the ABC Family Channel {line-up=>lineup} in the late 1990s / early 2000s .",3,"- The quote was changed to ""It"" to create a complete clause.
+- ""Cancelled"" was changed to ""canceled"" to reflect the version used more often in American English.
+- ""Line-up"" was corrected to the standard ""lineup.""","- The pronoun ""It"" was added to the beginning of the sentence for clarity.
+- The spelling of ""cancelled"" was changed to the American spelling ""canceled.""
+- The hyphen in ""line-up"" was removed to match the standard spelling of ""lineup.""",explanation_1,explanation_2
+wiki_test_521,He was also {surgeon in chief=>surgeon-in-chief} of a division in the Fifteenth Army Corps and of the district of Memphis .,1,"- The phrase ""surgeon-in-chief"" was hyphenated. In American English, many occupations are hyphenated to show that all the included words are related to the same job title.","- The phrase ""surgeon-in-chief"" is a compound noun and should be hyphenated.",explanation_1,explanation_2
+wiki_dev_526,Beisan was {an=>a} Muslim town in the {centre=>center} of a fertile valley running into the River Jordan .,2,"- ""An"" was corrected ""a"" because the following word begins with a consonant.
+- ""Centre"" was changed to ""center"" following the American English spelling standards.","- 'An' should be changed to 'a' because 'Muslim' begins with a consonant sound.
+- The spelling 'center' is more commonly used in American English.",explanation_2,explanation_1
+fce_test_729,I have {to choose=>chosen} painting and {the=>} photography {therefore=>} .,3,"- This is a meaning-changing edit that is incorrect.
+- 'The' is deleted because it sounds unnatural in this context for the definite article to be used here with 'photography.'
+- 'Therefore' is deleted here because it sounds unnatural. It could be kept and sound more natural if it was placed at the beginning of the sentence.","- The revised sentence simplifies the structure by using the past participle form of the verb 'choose' to show that the action has already been completed, and eliminates the unnecessary words 'to' and 'therefore.'",explanation_1,explanation_2
+fce_test_335,"It 's a great opportunity because in our fast developing world we have to look fashionable {=>,} and this kind of show happens quite {rare=>rarely} .",2,"- Commas are usually needed between two sentence joined with words like ""and"" and ""or.""
+- When coming after words like ""quite,"" the adverb form ""rarely"" is required.","- A comma is added to join two independent clauses.
+- ""Rare"" is replaced with ""rarely"" to make the adverb agree with the verb ""happens.""",explanation_1,explanation_2
+fce_test_168,"Another thing was that the show I went to was {starting=>supposed to start} at {19=>7} : 30 {=>,} but it started at {20=>8} : 15 !",4,"- The verb ""starting"" was replaced with the phrase ""supposed to start"" because this is in keeping with the overall meaning conveyed in the sentence. The change improves the fluency of the sentence.
+- Converted the 24-hour notation of time to a 12-hour clock. So 19 is replaced with 7, and 20 is replaced with 8. This is a style edit.","- ""Starting"" was changed to ""supposed to start"" to indicate that there was a planned starting time that was not met.
+- The time was converted from 24-hour format to 12-hour format with AM/PM.
+- The comma was added to separate the two times.",explanation_2,explanation_1
+wiki_test_97,"Croatian politics are currently dominated by the legislative elections that will occur {at=>on} November {232003=>23, 2003} .",2,"- ""On"" is the correct preposition when talking about a date.
+- Space added between date and year in ""November 23, 2003.""
+- A comma is usually used between the date and the year when a date is written in this way.","- ""At"" is replaced with ""on"" because it is the correct preposition to use with a specific date.
+- The date is corrected to include a comma between the day and year.",explanation_2,explanation_1
+fce_dev_326,Please do not hesitate to contact me at ( 0297 ) 8245123 in case {of=>you} need {=>to} .,2,"- These fluency edits change the phrase to 'in case you need to,' which sounds far more natural than the original.","- ""Of"" is replaced with ""you"" to make the sentence more concise and direct.
+- ""To"" is added after ""need"" to improve fluency and clarity.",explanation_2,explanation_1
+wiki_dev_652,"These research fellowships and research awards can be obtained by young postdoctoral researchers at the beginning of their academic career {,=>;} by experienced , established scholars and scientists {,=>;} or even {=>by} leading authorities in their discipline .",3,"- Comma replaced with a semicolon to separate phrases that have commas in them
+- Comma replaced with a semicolon to separate phrases that have commas in them
+- 'by' inserted for stylistic consistency","- The commas between the three options were replaced with semicolons to separate the three items in a clearer way.
+- The preposition ""by"" was added before ""leading authorities"" to make it clear that it is also an option for obtaining the fellowships and awards.",explanation_2,explanation_1
+fce_dev_758,"This report provides the information about {Kyong Bok Palace=>Gyeongbokgung} , which is highly recommended to visit for visitors from foreign countries .",1,"- ""Kyong Bok Palace"" replaced with ""Gyeongbokgung"" for conciseness and to reflect contemporary style of Romanizing Korean names.","- The original spelling of ""Kyong Bok Palace"" was corrected to ""Gyeongbokgung,"" which is the correct spelling in English and Korean.
+- No other changes were made, as the revised sentence is already grammatically correct and fluent.",explanation_2,explanation_1
+wiki_dev_172,"Investigations are still continuing into his death {as at=>on} September 22 , 2010 .",1,"- ""As at"" was replaced with ""on"" as ""on"" is typically used with complete dates.","- ""as at"" is not commonly used to refer to a specific date. ""On"" is a more appropriate preposition to use in this case.",explanation_2,explanation_1
+fce_test_659,"However , I {go far away=>distance myself} from my family and other people and have virtual relationships .",1,"- Depending on the intended meaning, ""distance myself"" is a more natural way of expressing this idea.","- ""Go far away"" implies physical distance, but the author is talking about emotional distance. ""Distance myself"" is a more appropriate phrase for this context.",explanation_1,explanation_2
+fce_dev_297,"Recently , some students have seen an {advertisment=>advertisement} about a fashion and leisure show in London .",1,"- ""Advertisement"" is the correct spelling of ""advertisment.""","- ""Advertisment"" was corrected to ""advertisement"" as it is the correct spelling.",explanation_2,explanation_1
+wiki_test_729,"Bat-Mite is often portrayed as having {near infinite=>near-infinite} magical powers {=>,} though in reality these have a scientific {explaination=>explanation ,} as he comes from a higher dimension {=>,} again similar to Mr. Mxyzptlk {who comes=>} from the {fifth=>Fifth} Dimension .",6,"- The words ""near"" and ""infinite"" are hyphenated to produce ""near-infinite."" Since the two words, combined, act as an adjective for ""powers,"" they must be hyphenated.
+- ""Explanation"" is the correct spelling of ""explaination.""
+- A comma was inserted after ""dimension"" to offset text that offers relevant, but nonessential information.
+- ""Who comes"" was inserted before ""from."" While the collocation ""comes from"" is common in English, it is not necessary in this case. This is an optional edit.
+- ""Fifth"" was capitalized because it forms part of a place treated as a proper noun.","- ""Near infinite"" needs to be hyphenated to be grammatical.
+- ""Explaination"" needs to be changed to ""explanation"" to be spelled correctly.
+- A comma needs to be added after ""powers"" to separate the two clauses.
+- ""Again"" needs to be set off with commas because it is a parenthetical phrase.
+- ""Who comes"" is unnecessary and can be deleted without changing the meaning of the sentence.
+- ""fifth"" needs to be capitalized because it is part of a proper noun.",explanation_1,explanation_2
+wiki_test_247,"Throughout the 1970s and 80 's , it {has been=>} absorbed a huge number of Jewish immigrants from Israel .",1,"- ""Has been"" is deleted because that would mean whatever ""it"" is was absorbed, when ""it"" is actually doing the absorbing.","- The phrase 'has been absorbed' is in the present perfect tense, which suggests a continuous action from the past to the present. However, the sentence is referring to a specific time period in the past, so the present perfect tense is not appropriate.
+- The word 'it' is unclear in the original sentence, so the revision clarifies that it refers to a place or country.",explanation_2,explanation_1
+fce_dev_632,"To sum {=>it} up , technology has been a great help to all of us .",1,- 'It' was inserted to complete the phrase.,"- ""It"" was added to replace the missing object of the phrasal verb ""sum up.""",explanation_2,explanation_1
+fce_test_422,"Also {=>,} I would prefer to go swimming and surfing , because I used to be an assistant in a Korean national pool {=>,} so {that=>} I am good at swimming .",3,"- The comma is inserted because it should follow an introductory phrase.
+- The comma is inserted because it is necessary before a conjunction and independent phrase.
+- ""That"" was deleted because the following clause is not a relative clause but an independent clause","- A comma is needed to separate the introductory clause from the main clause.
+- A comma is needed to separate the introductory phrase from the main clause.
+- 'That' should be replaced with 'so' to show cause and effect.
+- 'That' is not needed in this context.",explanation_2,explanation_1
+fce_test_299,"I 'm writing to you because I want you to {give the money back=>refund me} for {your=>} "" London 's newest and best musical show : Over the {rainbow=>Rainbow ,} "" {,=>} presented in the Circle Theatre .",4,"- The phrase ""give the money back"" was changed to ""refund me."" This is more simple and clarifies the recipient of the money.
+- The possessive pronoun ""your"" was removed from before the title of the show because an event such as this does not belong to anyone.
+- The final word in the title, ""Rainbow"" was capitalized to match the rest.
+- The comma was moved to be inside the quotation marks. All periods or commas which immediately follow a quoted section will be included inside the quotation marks.","- The phrase 'give the money back' is replaced with 'refund me' because the latter is a more natural and commonly used phrase. 
+- The possessive pronoun 'your' is removed because it does not make sense in the context of the sentence. 
+- The title of the show has 'Rainbow' capitalized and a comma is added after it to separate it from the rest of the sentence. 
+- The comma is added before 'presented' to separate the introductory phrase from the main clause. ",explanation_2,explanation_1
+fce_test_323,I have taken a {Photography=>photography} course and I enjoy taking photos {to=>of} animals .,2,"- Unnecessary capitalization of ""photography"" removed.
+- ""Of"" is the correct preposition when talking about taking photos.","- ""Photography"" should be in lowercase as it is not a proper noun.
+- ""of"" should be used to indicate the subject of the photos.",explanation_1,explanation_2
+wiki_dev_687,"Ultimately {=>,} the Riverside County coroner ordered an official autopsy against the wishes of his estate and determined that Liberace had died of {Aids related=>an Aids-related} illness {=>,} making him the second major celebrity after Rock Hudson to officially succumb to the illness during the early days of media frenzy surrounding the disease .",3,"- A comma was added after ""ultimately."" We need to include a comma if an introductory word begins a sentence.
+- ""Aids related"" was changed to ""Aids-related"" because we are using the term ""Aids-related"" as an adjective in this context.
+- A comma was inserted after ""illness"" to convey that the information that comes afterward adds additional information and is not essential to the meaning of the sentence.","- A comma was inserted after ""ultimately"" to separate introductory phrases.
+- ""Aids related"" was corrected to ""Aids-related"" to make it a compound adjective.
+- A comma was inserted before ""making him"" to separate the dependent clause from the independent clause.",explanation_1,explanation_2
+fce_dev_562,"{Anyway , as=>As} students we do n't have much money to spend on shopping {=>anyway ,} and the good thing is that it wo n't affect your budget at all as the entrance fees are free for students .",2,"- These stylistic edits move ""anyway"" to after the initial clause so that the sentence flows better.","- ""Anyway"" was moved to the beginning of the sentence to better align with the flow of the sentence.
+- ""Anyway"" was also moved to before ""students"" to better align with the intended meaning of the sentence.",explanation_2,explanation_1
+wiki_dev_217,"An extremely ahistorical Marie Curie appears as a character in the comedy {=>""} Young Einstein {=>,""} by Yahoo Serious .",2,"- The quotations are inserted because titles need to be in quotes via American English conventions.
+- The comma is inserted because titles need to be surrounded by commas when following a descriptive clause.","- The addition of quotation marks around ""Young Einstein"" is necessary since it is a title of a work.
+- A comma is added after ""Young Einstein"" to separate it from the name of the creator of the work.",explanation_1,explanation_2
+fce_test_159,"I mean , all {that=>those} flashing lights {, the=>with} changing {colours of them=>colors} , I believe they helped {much=>a lot} .",4,"- ""that"" was changed to ""those"" because ""lights"" is plural.
+- ""the"" was replaced with ""with"" and ""colours of them"" was replaced with ""colors"" to make the sentence more grammatical.
+- ""much"" was replaced with ""a lot"" because that is the correct form when using ""helped.""","- 'That' is changed to 'those' to better reflect the plural nature of the subject.
+- The phrase 'with changing colors' is added to better describe the flashing lights.
+- 'Colours of them' is changed to 'colors' to reflect American English spelling.
+- 'Much' is changed to 'a lot' to better convey the degree to which the flashing lights were helpful.",explanation_2,explanation_1
+fce_test_357,{It will=>I think it would} be {very awful=>better for me to travel in July} .,2,"- The original sentence and the revised version are different in meaning. The original sentence ""It will be very awful"" was replaced with ""I think it would be better for me to travel in July."" The revision is not incorrect, but the two versions are different sentences.","- The revised sentence is completely different from the original sentence because the original sentence is grammatically incorrect and unclear. Therefore, it was completely rewritten to convey a clear and meaningful message.",explanation_2,explanation_1
+fce_dev_1,"{At first=>First} , there are now a lot of things that most people use at home {. For=>, for} example : a fridge , {a cooker=>an oven ,} or just {an=>} electricity .",4,"- ""At"" removed from start of sentence. ""At first"" refers to a time, but this sentence refers to a list, where just ""first"" is correct.
+- Sentence fragment starting ""for example"" made a part of the full sentence.
+- ""Cooker"" changed to ""oven"" for fluency and clarity.
+- ""A"" changed to ""an"" because it occurs before a vowel sound.
+- Ungrammatical use of ""an"" removed. ""Electricity"" is a mass noun, so the article ""an"" is not used with it.","- ""At"" is removed from the beginning of the sentence and replaced with ""First"" to create a clearer transition into the statement.
+- A comma was inserted after ""home"" to mark the end of the introductory phrase and the beginning of the main clause.
+- The word ""cooker"" was changed to ""oven"" to use a more common term.
+-  ""An"" was added before ""electricity"" to use the correct indefinite article.",explanation_1,explanation_2
+wiki_dev_559,"However {=>,} Putin later broke the agreement because he was infuriated by the critical coverage of Russian submarine Kursk explosion by Russian ORT TV {=>, a} channel owned by Berezovsky .",2,"- A comma is typically placed after ""However"" at the beginning of a sentence.
+- The phrase "", a"" was inserted to improve clarity.","- A comma was added because ""however"" is a transitional adverb and requires a comma to separate it from the main clause.
+- ""a"" was added to clarify that ""Russian ORT TV"" is a channel.",explanation_1,explanation_2
+wiki_dev_410,"Carey is noted for her distinctive singing style that makes frequent use of melismas and other ornamentation {,=>;} she possesses a very versatile vocal range though not as superior when comparing to {=>Houston} .",2,- A semicolon is used instead of a comma when separating complete sentences.,"- The semicolon is needed here because the two clauses are independent and closely related.
+- ""Houston"" is added for comparison and clarity.",explanation_2,explanation_1
+wiki_test_486,"{Mother=>The mother} decides not to help him or let him make her apologize and bring it back {,=>.} Pingu shouts at her in an attempt to get it back {=>,} but {Pinga=>he} still continues eating it {and=>.} Pingu is not happy and tells her off .",5,"- Comma replaced with a period to avoid a run-on sentence.
+- Commas are usually used to divide sentences joined with ""and"" or ""but.""
+- ""and"" replaced with a period to avoid a run-on sentence.","- The original sentence is a run-on sentence with multiple actions and no clear separation between them. The revision splits the actions into separate sentences to improve clarity and fluency.
+- The pronoun 'he' is used instead of 'Pinga' to avoid confusion since 'Pinga' is also a character name.
+- Comma is changed to period to separate the two complete sentences.",explanation_2,explanation_1
+wiki_test_30,"Salander remotely turns off the alarm and allows {to=>} him to {enter and returns=>enter, returning} to her own efforts to find Niedermann by watching his {post office=>post-office} box .",3,"- This edit removes an extra, ungrammatical 'to' from the sentence.
+- This is a meaning-changing edit that may change the author's intent.
+- This edit is incorrect.","- The phrase ""allows to him to enter"" was corrected to ""allows him to enter"" to remove the unnecessary preposition.
+- ""Returns"" was changed to ""returning"" to create a participle phrase and indicate that Salander is doing both actions at the same time.
+- ""Post-office"" was hyphenated to correctly modify the noun ""box.""",explanation_1,explanation_2
+wiki_dev_807,"{=>""} Celebrate {=>""} is {=>the} forthcoming album from the American singer James Durbin .",3,"- The quotations are inserted because the title of the album should be surrounded by quotations.
+- The determiner, ""the,"" is inserted.","- The sentence needs an article before ""forthcoming album"" to make it grammatically correct.
+- The quotation marks around the album title were added for stylistic and typographical reasons.",explanation_2,explanation_1
+wiki_test_266,Max talked to her and took Lauren to get her ears {peirced=>pierced} for accepting Bradley .,1,- This edit corrects the spelling to 'pierced.',"- The correct spelling of the past tense of ""pierce"" is ""pierced.""",explanation_2,explanation_1
+wiki_dev_792,"{for=>For} example , Walden Pond in Concord , Massachusetts {=>,} measures 61 acres ( {~=>} 25 ha ) {,=>;} nearby {=>is} Spot Pond {is=>} , {while=>and} in between is Crystal Lake {at=>} .",8,"- This is the first word in the sentence, so it ought to be capitalized.
+- A comma should appear after a city and state appear together in a sentence.
+- This approximation symbol is incorrectly removed.
+- Because two independent clauses are being joined without a coordinating conjunction, a semicolon is needed.
+- The normal word order for english is subject, verb, object, so the verb is moved in this edit.
+- ""And"" is a more standard conjunction to use in this context.
+- This preposition is ungrammatical here by itself, so it is deleted.","- The capitalization of the first word was corrected to match conventional grammar.
+- A semicolon was used instead of a comma to separate two independent clauses.
+- The word ""is"" was added to clarify the subject of the sentence.
+- ""While"" was changed to ""and"" to better connect the ideas in the sentence.
+- ""At"" at the end of the sentence was removed for clarity and fluency.
+- The unit of measurement was changed to standard units for clarity and accuracy.",explanation_2,explanation_1
+fce_test_472,"I would prefer surfing or climbing {=>,} but I have to think {in=>about} my {helth=>health} .",3,"- A comma was added before ""but"" because commas are added before conjunctions that conjoin two independent clauses.
+- ""in"" was changed to ""about"" because that is the correct collocation for this phrase.
+- ""health"" fixes a spelling error.","- A comma was added to separate the two independent clauses.
+- 'In' is replaced with 'about' to accurately convey the intended meaning.
+- 'Helth' was a spelling error and was corrected to 'health.'",explanation_2,explanation_1
+wiki_test_607,There are two Bakreshwar {Thermal Power Station=>thermal power station} plants having a capacity of 630 MW .,1,"- ""Thermal power station"" is not a proper noun and does not need capital letters.","- ""Thermal Power Station"" was changed to ""thermal power station"" as it is not a proper noun and should not be capitalized.",explanation_1,explanation_2
+fce_test_286,We will be more {comprehensible=>understanding} with others .,1,"- ""Understanding"" replaced ""comprehensible.""","-  ""Comprehensible"" is used to describe something that can be understood, while ""understanding"" is used to describe someone who is empathetic and tolerant. In this context, ""understanding"" is the more appropriate word choice.",explanation_1,explanation_2
+fce_test_756,"But she did {,=>;} she asked me out .",1,- A comma was replaced by a semicolon to properly separate two sentences.,"- A semicolon was used to separate two independent clauses instead of a comma, which is a common error.",explanation_1,explanation_2
+fce_dev_339,"Finally , I would be grateful to you {,=>} if you told me about clothes and money .",1,"- The comma before ""if"" was removed because it is unnecessary when the if clause occurs at the end of the sentence.","-  The comma before ""if"" is unnecessary and can be removed for smoother flow.",explanation_1,explanation_2
+wiki_dev_460,These ceramic panels can {=>still} be {still=>} gazed at in these {=>Paris} schools {of Paris=>} close {=>to the} suburbs .,5,"- ""Still"" moved to occur before ""be"" for fluency.
+- ""Paris"" moved before ""schools"" for fluency.
+- Unnecessary preposition ""of"" removed.
+- ""to"" added after ""close."" Typically a preposition is needed when talking about closeness or distance.
+- ""The"" added before ""suburbs"" for fluency.","- ""Still"" is moved to a more natural position before the verb.
+- ""Of Paris"" is removed as it is redundant.
+- ""Close to the suburbs"" is more natural than ""close suburbs.""",explanation_2,explanation_1
+wiki_test_661,"To commemorate the 50th anniversary of the execution of Joe Hill , Philip S. Foner published a book , "" The Case of Joe {Hill=>Hill,} "" {,=>} about the trial and subsequent events , which concludes that the case was seriously miscarried .",2,- The order of the comma and quotation mark was reversed. Punctuation marks typically precede quotation marks in American English.,"- A comma was added after ""Joe Hill"" to set it off as a nonessential appositive phrase.",explanation_1,explanation_2
+wiki_dev_564,"Before the group {enters=>entered} the parking lot {=>,} he {ask=>asked} Micheal if he could have a gun {=>,} but instead he is given an axe .",4,"- The verb form was changed from present to past tense ""entered"" and ""asked"" to maintain verb tense consistency throughout the clause.
+- A comma after ""Before the group entered the parking lot"" was added because this is an introductory prepositional phrase, and the comma separates the introductory phrase from the main clause.
+- A comma was inserted before ""but"" because ""but"" functions as a coordinating conjunction combining two independent clauses.","- ""Enters"" was changed to ""entered"" as the sentence is in past tense.
+- A comma was added before the conjunction ""but"" to separate the two independent clauses.
+- ""Ask"" was changed to ""asked"" as it should also be in past tense.
+- A comma was added after the clause ""if he could have a gun"" to separate it from the rest of the sentence.",explanation_2,explanation_1
+fce_test_419,"I do n't know why {=>,} and I 'd like you to tell me {,=>} the reason .",2,"- A comma is inserted after ""why"" to separate two independent clauses.
+- A comma is removed after ""me"" because it interrupts an otherwise complete thought.","- A comma was added after ""why"" to properly separate the two independent clauses.
+- The comma after ""me"" was moved to after ""reason"" for proper punctuation and flow.",explanation_1,explanation_2
+fce_dev_822,"From my point of view , modern technology has {first permit to=>helped} me {to=>} find a job as I work as a computer engineer .",2,"- ""first permit to"" was replaced by ""helped"" in order to fix a lexical choice error and to improve the clarity of the sentence.
+- ""To"" was removed to improve the fluency of the sentence.","- 'First permit to' is not a correct construction. 'Helped' is a better verb choice for conveying the idea of modern technology enabling the author to find a job.
+- The infinitive marker 'to' is not necessary here.
+- The revised sentence is more concise and clear in its meaning.",explanation_1,explanation_2
+wiki_dev_910,"Other churches , however , accused Falun Gong of being a New Age-like occult , as well {of=>as} misrepresenting the teachings of Christianity .",1,"- ""As well as"" functions as a conjunction, and the full  phrase is needed here to support ""misrepresenting the teachings of Christianity.""","- ""Of"" is replaced with ""as"" because ""as well as"" is the correct idiom in English.
+- ""Of"" is replaced with ""as"" because ""as well as"" is the correct idiom in English.",explanation_1,explanation_2
+fce_dev_804,"{they=>They} know that if I go out with the car , I will not drink .",1,"- The letter ""T"" was capitalized because the word ""They"" begins the sentence.",- The only change made was capitalizing the first word of the sentence.,explanation_2,explanation_1
+fce_test_151,"I can really recommend {you=>} this book {, it=>to you . It} is fabulous .",2,"- The indirect object, ""you,"" is moved to the end of the clause to improve fluency.
+- A period is inserted between the two independent clauses to remove the comma splice.","- The object of the verb 'recommend' is 'this book', so the pronoun 'you' is no longer necessary.
+- The sentence is separated into two independent clauses to improve fluency and clarity.",explanation_1,explanation_2
+wiki_test_705,"While hosting her own shows {MTVe2=>""MTVe2""} and {MTV=>""MTV} Screen {,=>,""} Anna continued to work as an {on air=>on-air} correspondent for {eTalk .=>""eTalk .""}",5,"- Names of shows should be in quotation marks.
+- ""on-air"" should be hyphenated.","- The quotation marks were added to show that ""MTVe2"" and ""MTV Screen"" are the names of specific shows.
+- A comma was added before ""Anna"" to separate the introductory phrase from the main clause.
+- ""On-air"" was hyphenated to make it a compound modifier.
+- A period was added after ""eTalk"" to punctuate the sentence properly.",explanation_2,explanation_1
+wiki_dev_94,"Windale has historically been known for its high rates of alcoholism , crime {=>,} and unemployment .",1,"- This edit adds an Oxford comma, which separates the last two elements in a list.","- A comma was inserted before ""and"" to separate the last item in a series from the one before it.",explanation_1,explanation_2
+wiki_test_75,"Cantor is a hobo named Aloysius "" Al "" Babson , who walks into the camp of a movie company that is making the "" Arabian Nights {"" .=>.""}",1,- The ending period was moved to inside the closing quotation mark. The standard convention in American English is to have the closing punctuation mark placed inside the quotation mark.,- A period was added at the end of the sentence to adhere to English grammar rules.,explanation_1,explanation_2
+wiki_dev_187,"His best race finish was {a=>} fourth {=>place} as {highest=>highest,} and {had=>} he had one fifth and three sixth places .",4,"- ""A"" is deleted and ""place"" is added to improve fluency and clarity.
+- A comma is added because a comma is needed before a conjunction and independent clause.
+- ""Had"" is deleted because there was an ungrammatical repetition of the verb.","- The indefinite article 'a' is removed because it is not necessary in this context.
+- ""Fourth"" is changed to ""fourth place"" to clarify the meaning of the sentence.
+- The comma is added to separate the two clauses of the sentence.
+- The word ""had"" is removed to improve the fluency of the sentence.
+- The word ""highest"" is repeated for emphasis and clarity.",explanation_2,explanation_1
+wiki_dev_650,"Unfortunately , at the time of Hall 's death , the Felons Act had not come into force , resulting in {cosiderable=>considerable} controversy over the legality his killing .",1,"- The word ""considerable"" was  corrected for spelling.","- ""Cosiderable"" was corrected to ""considerable.""",explanation_1,explanation_2
+wiki_test_533,"Soon after the ascension of William Rufus , {St-Calais=>St. Calais} became one of the king 's most trusted lieutenants , along with the {recently-released=>recently released} Odo of Bayeux .",2,"- Titles such as ""St."" do not need hyphens.
+- ""Recently"" is an adverb and does not need to be hyphenated to the adjective it modifies, in this case ""released.""","- ""St. Calais"" was corrected to have proper punctuation as it is a saint's name.
+- ""Recently released"" was changed to two separate words to match the more common form.",explanation_2,explanation_1
+fce_dev_265,"One of the most interesting ones is {=>,} "" The {old man=>Old Man} and the Sea {=>.} "" {. A=>It 's the} story of an old seaman leaving his town to {proove=>prove} that he is still able to catch the biggest fish ever caught .",5,"- A comma was added because the clause introducing a quotation is not an independent clause.
+- The words ""Old Man"" were capitalized because these words are part of the book title. Nouns and Adjectives are capitalized in book titles.
+- A period was placed before the closing quotation mark. In American English, commas and periods are placed inside the closing quotation marks.
+- The article ""A"" was replaced with the words ""It's the"" because the original sentence lacks a subject and a verb. The definite article ""the"" was used because it is the specific story of the book.
+- A spelling error. The correct spelling is ""prove.""","- A comma was added after ""is"" to separate the introductory phrase.
+- The title ""The Old Man and the Sea"" should be capitalized and have quotation marks around it.
+- ""It's"" was added to replace the awkward transition from introducing the title to summarizing the story.
+- ""Prove"" was corrected to its proper spelling.",explanation_2,explanation_1
+wiki_test_360,"Many speculate that if the Escort ZX2 's more powerful 130 HP Zetec engine would have been {avalable=>available} or standard on the Tracer , it would have proved much more {successfull=>successful} .",2,"- The misspelling ""avalable"" was corrected to ""available.""
+- The misspelling ""successfull"" was corrected to ""successful.""","- The spelling of ""available"" was corrected.
+- The spelling of ""successful"" was corrected.",explanation_1,explanation_2
+wiki_dev_251,"Australia defeated South Africa 4 - 0 {=>,} and senior players such as Bill O ' Reilly were pointed in their comments about the enjoyment of playing under Richardson 's captaincy .",1,- A comma is added here because two independent clauses are being joined with a coordinating conjunction.,"- A comma is added before the conjunction ""and"" to separate two independent clauses.",explanation_2,explanation_1
+fce_test_262,"As you know , I am a member of a BSB fan club , and last month we had the opportunity to help at a concert they {gave=>had} in the city where I live .",1,"- ""Gave"" was replaced with ""had"" because ""have a concert"" is a more common collocate.","- The verb ""had"" is more appropriate in this context because it refers to the concert as an event that was held.",explanation_2,explanation_1
+wiki_dev_43,"Coupled with other factors , habitual television watching {,=>} over long periods of time {,=>} has been known to cause , in some {poeople=>people} , a lack of motivation and feelings of listlessness , depression , and anger .",3,"- The commas were removed as the the phrase is essential and grammatically correct in its current position.
+- The misspelling ""poeople"" was corrected to ""people.""","- Commas were removed because they were causing a run-on sentence.
+- ""poeople"" was corrected to ""people.""",explanation_1,explanation_2
+wiki_dev_265,"He has also appeared on Los Angeles ' Fox 11 News as a political analyst , and is often a guest on radio programs for the LA market and Internet {syndication=>Syndication} .",1,"- Assuming ""Internet Syndication"" is a proper noun, it should be capitalized.","- The capitalization of ""Syndication"" was corrected to match the correct spelling of a proper noun.",explanation_1,explanation_2
+wiki_dev_850,"Soon after {=>,} the guests from NKVD came again in the night and ordered to prepare the dinner and then asked him to come with them .",1,- A comma was added after the introductory phrase.,- A comma is needed here to separate the introductory adverbial phrase from the main clause.,explanation_2,explanation_1
+wiki_test_630,"Latoore was nominally a military dictator {=>,} but he worked in partnership with the two main {parties=>parties,} and he was able to bring {back=>} beef back into profit .",3,"- A comma was added because ""but"" is separating two independent clauses.
+- A comma was added because ""and"" is separating two independent clauses.
+- ""back"" was removed in order to eliminate redundant phrases and improve the clarity of the sentence.","- This edit adds a comma because two independent clauses are being joined with a coordinating conjunction.
+- This edit adds a comma to separate the two items in a list.
+- This edit removes the repetition of ""back"" to improve fluency.",explanation_2,explanation_1
+fce_dev_428,"They had invited us {=>,} and we wanted them to see us stunningly beautiful .",1,"- A comma was added because ""and"" is separating two independent clauses.","- A comma was added after ""us"" to separate two independent clauses.",explanation_1,explanation_2
+fce_dev_557,Swimming is quite {=>a} nice activity {to relax=>for relaxing} and {work=>working} out .,3,"- Indefinite article ""a"" is inserted before the singular noun ""activity.""
+- The verb phrase ""to relax and work out"" was replaced with the prepositional phrase ""for relaxing and working out""
+- because there is a noun phrase before it, ""a nice activity."" This noun phrase is usually followed by the preposition ""for,"" which takes an object.","- ""a"" is added to make the sentence grammatically correct.
+- ""to relax"" is changed to ""for relaxing"" to make the sentence more fluent and natural. ""work"" is changed to ""working"" to match the gerund form of ""relaxing.""",explanation_1,explanation_2
+fce_dev_491,"Last week {=>,} some students {of=>in} our class {have seen=>saw} an advertisement for the London Fashion and Leisure Show that will be on Tuesday {=>,} the 14th of March .",4,"- A comma was inserted after ""last week"" as temporal adverbs require a comma when placed at the beginning of a sentence.
+- ""Of"" was replaced with ""in"" to improve fluency as ""in our class"" is a more common collocation with ""students.""
+- The presesnt perfect tense was changed to past tense ""saw"" because the events of the sentence take place in the past.
+- A comma was added after ""Tuesday"" which is standard for dates.","- A comma was added to separate the introductory phrase.
+- ""in"" is more appropriate to describe the students' position in the class.
+- The verb tense was changed to simple past to match the time frame of ""last week.""
+- A comma was added before the date to separate it from the rest of the sentence.",explanation_1,explanation_2
+wiki_dev_876,"StormierZiggy alleged that the moderators had {been=>} been waiting weeks to ban him and his friends for anything , because they disliked them for "" speaking their minds and telling the truth {=>.} "" {.=>}",3,"- The extra word ""been"" was removed.
+- The closing quotation marks were put after the period, which is the preferred placement in North American conventions.","- The repeated word ""been"" was removed for grammatical correctness.
+- A period was added after the quote to adhere to grammar rules.
+- The extra period at the end of the sentence was removed.",explanation_1,explanation_2
+wiki_dev_727,"An ensuing edit war erupted {-=>,} of which I took no part in other than the initial revert {-=>,} which eventually ended in the BLP being brought to an acceptable state , though with plenty of unneeded conflict , as well as a slew {off harrrowing=>of harrowing} insults from WikiProject ID members .",3,"- These edits set off this parenthetical with commas; em dashes would also work in this context.
+- This edit changes 'off' to the intended 'of' and corrects the spelling of 'harrowing.'","- A comma is needed here because the two clauses are being joined with a coordinating conjunction.
+- A comma is needed here because the phrase ""other than the initial revert"" is nonrestrictive and can be removed without changing the meaning of the sentence.
+- 'Off' was corrected to 'of.'",explanation_1,explanation_2
+fce_test_471,"{I=>It} would be appreciated it if you supply some {towers=>towels} , if possible .",2,- The pronoun is substituted to follow the passive voice used in the clause.,"- ""I"" was replaced with ""It"" to improve the sentence structure and make it more formal.
+- ""Towers"" was replaced with ""towels"" as it fits the context of the sentence better. 
+- The second ""it"" was removed to avoid repetition and improve fluency.",explanation_2,explanation_1
+fce_test_592,{Hope=>I hope} we {=>can} join the next pop concert together as {a stuff=>staff} and enjoy our time !,3,"- ""Hope"" changed to ""I hope"" to turn fragment into a complete sentence.
+- ""Can"" added before ""join"" for clarity.
+- ""A"" removed for conciseness.
+- Spelling of ""staff"" corrected.","- ""Hope"" was changed to ""I hope"" to make it a complete sentence.
+- ""Can"" was added to make the sentence grammatically correct.
+- ""a stuff"" was changed to ""staff"" to make the sentence grammatically correct.",explanation_2,explanation_1
+fce_test_817,"To sum {=>it} up , the Olympic Museum is a very attractive place and could be a good trip with your family or your student group .",1,"- ""It"" is inserted because an object is needed for the verb ""to sum.""","- ""Sum it up"" is the correct phrase, not ""sum up.""",explanation_1,explanation_2
+fce_test_317,The London {fashion=>Fashion} and Leisure Show will start on Tuesday .,1,"- ""Fashion"" was capitalized because it is a noun in a title. All significant words in a title should be capitalized.","- The word ""fashion"" should be capitalized because it is part of a proper noun.",explanation_2,explanation_1
+wiki_dev_780,"He is influenced by Kiss and many other {Rock Bandss=>rock bands} from the 80s and 70s , as well as modern Metal acts , such as Snot and Mucus .",1,"- A spelling error was corrected, and the words were changed to lowercase because common nouns are not capitalized in English.  The corrected form was ""rock bands.""","- The spelling error was corrected.
+- ""Rock bands"" is the proper term and capitalization.",explanation_1,explanation_2
+fce_dev_59,"{Money , how=>How} much {=>money} should I bring .",2,"- These stylistic edits move ""money"" to its normal location for this kind of sentence.","- The phrase is restructured to form a proper question.
+- The word 'money' is moved to follow 'much' to form a grammatically correct sentence.",explanation_2,explanation_1
+fce_dev_96,"I think {=>having} that {, , having=>} is a dream {'' of=>for} all of us .",3,"- The word order has been changed to ""having that"" to improve fluency and clarity.
+- The commas and double quotation marks have been deleted because they interrupt the sentence without a clear meaning or intention behind them.
+- The preposition, ""of,"" is substituted for ""for"" to improve clarity and fluency that it is everyone's dream.","- The repetition of ""that"" and the extra comma are removed to improve clarity and fluency.
+- ""of"" is replaced with ""for"" to accurately convey the intended meaning.",explanation_1,explanation_2
+wiki_dev_739,Reduced cost versus over road trucking is the key benefit {for=>of} intracontinental use .,1,"- The word ""for"" was replaced with ""of"" to convey that ""intracontinental use"" causes the benefit rather than receives it.","- ""Of"" is used to show possession or attribution, which is appropriate in this sentence to show that the benefit belongs to intracontinental use.",explanation_2,explanation_1
+wiki_test_944,"The {=>websites of the} two licensed stores selling them within the United Kingdom , Premier Farnell and RS Components , {had their websites=>} immediately stalled {by=>due to} web traffic immediately after the announcement .",3,"- This stylistic edit makes the sentence active voice, which is often preferable.
+- This stylistic edit fits ""web traffic"" better because ""web traffic"" isn't an agent.","- ""The two licensed stores selling them within the United Kingdom"" is more smoothly integrated into the sentence by placing ""websites"" at the beginning.
+- The passive voice ""had their websites immediately stalled"" is changed to the active voice ""immediately stalled"" to improve clarity and concision.
+- ""By"" is changed to ""due to"" to better express the cause of the website stall.",explanation_2,explanation_1
+fce_dev_651,"This is a very central hotel {=>,} located not far {away=>} from the conference hall .",2,"- A comma is inserted because it is needed before a descriptive clause.
+- ""Away"" is deleted to improve conciseness.","- A comma was added to separate the two clauses in the sentence.
+- ""Away"" was deleted to make the sentence more concise and fluent.",explanation_2,explanation_1
+wiki_dev_198,A list of titles of the 1953 episodes {are listed=>is} on Internet Movie Database .,1,"- ""Are listed"" is replaced by ""is"" because, in this context, ""is"" refers to ""a list,"" which is a singular noun.","- The verb ""is"" was changed to ""are listed"" to agree with the plural subject ""titles.""",explanation_1,explanation_2
+fce_test_548,{I=>It} was really great .,1,"- ""I"" is a misspelling of ""It.""","- The subject of the sentence was changed from ""I"" to ""It"" to provide clarity and context. The original sentence lacks information about what was great.",explanation_1,explanation_2
+fce_dev_470,"In {Conclusion=>conclusion ,} I 'd like to {recoment=>recommend} that you should , first , know what you have to offer and {the advertising=>advertise} it .",3,"- This is a capitalization error. The noun is part of an introductory phrase and should not be capitalized as it does not start the sentence.
+- The correct spelling is ""recommend.""
+- The noun phrase, ""the advertising,"" is substituted with the verb, ""advertise,"" to improve fluency and complete the sentence.","- 'Conclusion' should be lowercase and have a comma after it to start a new sentence.
+- 'Recoment' is misspelled and corrected to 'recommend.'
+- 'The advertising' is grammatically incorrect and changed to 'advertise.'",explanation_2,explanation_1
+wiki_test_728,"Records discovered in 1955 prove that {from=>in around} 1480 {,=>} ( 12 years before Columbus ) , English fishermen had established a facility for processing fish on the Newfoundland coast .",2,- A comma was added after the introductory phrase to improve the clarity of the sentence.,"- ""From"" implies a specific starting point in time, but the exact year is not known, so ""in around"" is more appropriate.
+- The comma is not necessary and can be removed.",explanation_1,explanation_2
+fce_dev_626,"The discounts were n't available and your {theatre=>theater} restaurant was n't open , because the owners were {for holidays=>on vacation} .",2,"- ""theatre"" was changed to ""theater"" because that is the American English spelling.
+- ""for holidays"" was changed to ""on vacation"" because that is the correct phrasing in American English.","- 'Theatre' is the British spelling while 'theater' is the American spelling. The latter is used here for consistency with American English.
+- 'For holidays' is an ungrammatical prepositional phrase. 'On vacation' is the correct phrase in American English.",explanation_2,explanation_1
+wiki_test_562,"Demo versions of the songs "" Drop the Girl {"" ,=>,""} "" Stay Out {"" ,=>,""} and "" Do n't Wait "" were released on the internet before the {albums=>album's} release featuring Colin Ross {=>,} before he left the band .",4,"- The punctuation marks are moved inside the last quotation mark to fulfill American English punctuation conventions.
+- The plural noun is replaced with the possessive singular noun. The context shows that the release of the album is being discussed.","- The commas were added in between the song titles to make the sentence clearer and easier to read.
+- The possessive form ""album's"" was added to clarify that it is the release of one specific album.
+- A comma was added before ""before he left the band"" to separate it as an additional phrase.",explanation_1,explanation_2
+wiki_dev_173,"{User=>The user} fails to follow BRD , {=>and} restored BOLD edit while discussion was still going on {and no=>. No} consensus was achieved for his position .",3,"- ""The"" is inserted as the first word of the sentence because the following noun, ""user,"" requires a specific determiner.","- The change from 'User' to 'The user' makes the sentence more formal and clear.
+- The addition of 'and' improves the flow and clarity of the sentence.
+- The change from 'his' to 'their' is more inclusive and appropriate for a general audience.",explanation_2,explanation_1
+wiki_dev_349,"This reply , just as his reaction to Heisenberg , made sure that , if {=>the} Gestapo intercepted anything {attributted=>attributed} to {Bohr=>Bohr,} it would simply point to no particularly relevant knowledge regarding nuclear energy , as it stood in 1941 .",3,"- The definite article ""the"" was added because ""Gestapo"" is a proper noun referring to a unique political organization.
+- A spelling error was corrected. The correct spelling is ""attributed.""
+- A comma was inserted after ""Bohr"" to separate the extra information, ""if the Gestapo intercepted anything attributed to Bohr,"" from the main clause. Since this explanatory information was added in the middle of the sentence, it was set off with a pair of commas.","- ""the"" was added before ""Gestapo"" to specify which Gestapo is being referred to.
+- ""attributted"" was corrected to ""attributed"" as it is the correct spelling.
+- ""Bohr"" was repeated after the comma for clarity and to avoid confusion.",explanation_2,explanation_1
+fce_test_556,"Finally , could you tell me how far {=>it} is {=>to} the nearest town or village ?",2,"- ""it"" added before ""is"" for fluency and clarity.
+- A preposition is usually needed when talking about how far something is.","- The pronoun 'it' is needed to make the sentence grammatically correct.
+- 'To' is the correct preposition to use in this context to indicate distance.",explanation_2,explanation_1
+wiki_dev_782,"On May 1 , 2013 , 96 Street {=>,} between 106 Avenue and 111 Avenue {=>,} was granted Heritage Area designation to protect the street and enhance {it 's characters=>its character} .",3,"- Commas were inserted before and after the phrase ""between 106 Avenue and 111 Avenue"" in order to convey that this information adds additional meaning to the sentence.
+- ""it's characters"" was replaced by ""its character.""","- Commas were added before and after the phrase ""between 106 Avenue and 111 Avenue"" to separate it from the rest of the sentence and make it clearer.
+- The possessive pronoun ""it's"" was corrected to ""its"" to show possession.",explanation_1,explanation_2
+wiki_test_579,"{Jansen ' s=>Jansen's} opponents ( mainly Jesuits ) condemned {Jansen ' s=>Jansen's} teachings for their alleged similarities to Calvinism {( though=>. Though} , unlike Calvinism , Jansen rejected the doctrine of assurance {=>,} and taught that even the saved could not be assured that they were saved {)=>} .",5,"- The extra space before the apostrophe was removed, so it's ""Jansen's instead of ""Jansen 's."" This error was corrected twice.
+- To improve fluency and clarity, the one long sentence was separated into two. The first sentence ends with the word Calvinism.
+- The opening parenthesis before ""though"" was deleted because it is unnecessary.
+- The word ""Though"" begins the second sentence, so ""Though"" was capitalized.
+- A comma was inserted before ""and"" because ""and"" functions as a coordinating conjunction combining two independent clauses.
+- The closing parenthesis was removed because it is unnecessary.","- ""Jansen's"" is corrected to remove unnecessary spaces.
+- The sentence structure is improved by breaking it into two separate sentences.
+- ""Though"" is capitalized since it is the start of a new sentence.
+- The comma after ""assurance"" is inserted to improve clarity and fluency.
+- The closing parenthesis is inserted to fix the mismatched parentheses in the original sentence.",explanation_2,explanation_1
+fce_test_818,"So {=>as} you can see {that=>,} it was not a so perfect evening for me {then=>as} I thought .",3,"- ""You can see that"" was replaced with ""as you can see."" This divides the sentence into smaller parts rather than having one, longer sentence.
+- ""Then"" replaced with ""as."" This is the correct preposition in this context.","- ""So"" was changed to ""as"" to indicate a causal relationship between the two parts of the sentence.
+- ""That"" was removed as it is not needed in this context.
+- ""Then"" was changed to ""as"" to maintain consistency with the previous change and to improve fluency.
+- A comma was added after ""see"" to separate the introductory phrase from the main clause.
+- ""So perfect"" was changed to ""perfect"" as ""so"" is not needed in this context.",explanation_2,explanation_1
+fce_dev_92,"Looking {to=>at} your letter , I can see many options {of=>for} activities {=>,} and I realized that I like most of them .",3,"- The correct preposition here would be ""at"" if the intended meaning is that the person in reading the letter.
+- The correct preposition here would be ""for.""
+- Because two independent clauses are being joined using a coordinating conjunction, a comma is needed.","- ""to"" was changed to ""at"" because ""looking at"" is the correct phrase to use when referring to reading or examining a written document.
+- ""of"" was changed to ""for"" because ""for activities"" is the correct preposition to use when referring to options or choices.
+- A comma was added to separate two independent clauses in the sentence.",explanation_1,explanation_2
+fce_dev_829,"Second , how much money {to=>do} I need ?",1,"- ""To"" was corrected to ""do.""","- ""To"" was changed to ""do"" to correct the subject-verb agreement.",explanation_1,explanation_2
+fce_test_199,"There are links between the greenhouse , technology {=>,} and me .",1,"- In American English, an ""Oxford"" comma is usually put before the last item in a list.",- A comma was inserted to separate the last item in a list of three or more.,explanation_1,explanation_2
+fce_test_43,I am {=>a} representative of our class {in=>writing to you at} your college {to write to you=>} .,3,"- The indefinite article ""a"" was inserted because an article is typically used in ""I am"" + noun phrases.
+- The phrase ""to write to you"" was removed, substituting the ""in"" with the phrase ""writing to you at."" for conciseness and fluency.","- Adding the indefinite article 'a' before 'representative' makes the sentence grammatically correct.
+- Changing 'in your college to write to you' to 'writing to you at your college' makes the sentence clearer and more fluent.",explanation_2,explanation_1
+wiki_dev_714,"{=>The} Hearts should {of went in at half time=>have gone into halftime} with a 2 - 1 lead {=>,} but {a further=>another} strike by Beattie was wrongly ruled {off side=>offside} by linesman Gary Cheyne .",5,"- The determine was inserted to improve fluency.
+- The word, ""of,"" was replaced with ""have"" to improve fluency. These words are commonly confused when presented with ""should.""
+- ""went in at"" was substituted with ""gone into"" to improve fluency.
+- The correct spelling of the compound noun is ""halftime.""
+- The comma is inserted because it is necessary before a conjunction and independent clause.
+- ""a further"" is substituted with ""another"" to improve fluency and clarity.
+- The correct spelling is ""offside.""","- The first edit changes ""should of went"" to ""should have gone"" to correct the grammatical error.
+- The second edit adds a comma to separate the two clauses.
+- The third edit changes ""further"" to ""another"" to improve clarity and fluency.
+- The fourth edit changes ""off side"" to ""offside"" to correct the spelling error.",explanation_2,explanation_1
+wiki_dev_786,"Singles from the album include , in order released , "" Somebody Told Me {"" ,=>,""} "" Mr. Brightside {"" ,=>,""} "" All {Those=>These} Things That {I Did "" ,=>I've Done ,""} and "" Smell Like You Mean It {"" .=>.""}",5,"- These edits move the punctuation inside the quotation marks, which is the standard in American English.
+- These edits correct the song title of the song.","- Commas were added after each song title to set them off as separate elements in a list.
+- The title of the third song was corrected to ""All These Things That I've Done.""
+- The phrase ""in order released"" was left untouched as it is clear and concise.
+- The word ""those"" in the original sentence was changed to ""these"" to match the correct title of the song.",explanation_2,explanation_1
+wiki_test_365,"The earliest examples of the Baroque style in Sicily were generally clumsy , {ill proportioned=>ill-proportioned} versions of what {travellers=>travelers} to Rome , Florence , and Naples {has=>had} seen on their visits .",3,"- The words ""ill"" and ""proportioned"" were combined with a hyphen because together they serve as a single adjective for the following noun.
+- ""Travelers"" is the American English spelling of ""travellers.""","- The compound adjective ""ill-proportioned"" needed a hyphen to correctly modify ""versions.""
+- The British spelling ""travellers"" was changed to the American spelling ""travelers.""
+- The verb ""had"" was changed to agree with the past tense ""had seen"" of the dependent clause.",explanation_2,explanation_1
+fce_dev_246,{Using=>We 'll be using} the equipment and {area what=>space that} we have to {organise=>organize} some activities .,3,"- A subject was established with the addition of ""We."" ""will be"" was added in order to align the tense with the rest of the sentence and adequately link the subject to the verb.
+- ""area what"" became ""space that"" to increase the clarity of the sentence.
+- ""organize"" is the American spelling of ""organise.""","- ""Using"" is replaced with ""We'll be using"" to make the sentence more fluent and complete. 
+- ""area what"" is corrected to ""space that"" for grammatical accuracy. 
+- ""organise"" is corrected to ""organize"" for American English spelling. ",explanation_1,explanation_2
+fce_dev_515,"The show 's date is very {convinient=>convenient} - March 14 {-=>} , and it is {on=>in} Central Exhibition Hall {=>,} so I do not think it would be a problem to get there .",4,"- The correct spelling is ""convenient.""
+- If this were to be used, it ought to be an em dash. However, there is already a comma after the date, and there shouldn't be both punctuations.
+- For things taking place in a hall, the correct preposition is ""in.""
+- Because two independent clauses are being joined using a coordinating conjunction, a comma is needed.","- The spelling of ""convenient"" was corrected.
+- The dash after ""March 14"" was changed to a comma to adhere to English grammar rules.
+- ""On"" was changed to ""in"" since ""Central Exhibition Hall"" is a location that is typically referred to as being ""in"" a place rather than ""on"" it.
+- A comma was added after ""Central Exhibition Hall"" to separate two independent clauses.",explanation_2,explanation_1
+fce_test_271,{Hopefull=>Hopefully} I will meet some other girls in the same sport {. So=>so that} we all play as a team .,2,"- This edit corrects the spelling of ""hopefully.""
+- ""So we all play as a team"" cannot be a standalone sentence, so it is connected to the preceding sentence.","- ""Hopefull"" was corrected to ""Hopefully"" as it is a common misspelling.
+- ""So"" was changed to ""so that"" to better convey the purpose or intention of meeting other girls in the same sport.",explanation_2,explanation_1
+fce_test_403,"From the {beggining=>beginning ,} it was all a disappointment .",1,- A comma was added after the introductory phrase to improve the clarity of the sentence.,"- ""beggining"" was corrected to ""beginning"" with only one ""g"" in the word.
+- A comma was added after ""beginning"" to separate the introductory phrase from the main clause.",explanation_2,explanation_1
+fce_test_50,"{Finaly=>Finally} , I must choose {traveling there=>to travel} in July because I am not allowed to take {holidays=>vacations} in other months due to my work .",3,"- The correct spelling is ""Finally.""
+- The gerund verb form is replaced with the infinitive verb form to improve fluency.
+- ""There"" is deleted for conciseness.
+- The British English,"" holidays,"" is replaced with ""vacations"" to follow American English spelling conventions.","- 'Finaly' should be spelled 'Finally.'
+- The infinitive 'to travel' should be used after 'choose.'
+- 'Vacations' is the more common term in American English and is more appropriate in this context.",explanation_1,explanation_2
